@@ -11,7 +11,7 @@ The following pre-trained models were fine-tuned:
 
 ## 📁 Dataset
 
-We use the official **ASL Alphabet dataset** from Kaggle by *grassknoted*, which contains ~87,000 labeled images categorized into 29 classes (A–Z, del, nothing, space):  
+I use the official **ASL Alphabet dataset** from Kaggle by *grassknoted*, which contains ~87,000 labeled images categorized into 29 classes (A–Z, del, nothing, space):  
 📦 [ASL Alphabet Dataset – Kaggle](https://www.kaggle.com/datasets/grassknoted/asl-alphabet)
 
 
@@ -35,8 +35,6 @@ We use the official **ASL Alphabet dataset** from Kaggle by *grassknoted*, which
 | ViT-B/16   | Head initially      | ImageNet      | `heads.head` → full model |
 
 ## 📈 Results Summary
-
-> 🔽 Replace the values below with actual numbers after training.
 
 | Model      | Validation Accuracy | Best Val Loss |
 |------------|---------------------|---------------|
